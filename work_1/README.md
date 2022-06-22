@@ -9,7 +9,7 @@
 # Activida de creacion Script con Bash 
 En la carpeta de Scripts se encuentra el Scritp y los archivos que use. A continuación el script:
 
-![Script](../assets/scriptfinal.png)
+![Script](../assets/scriptfinal1.png)
 
 ### Script ejecutado 
 
