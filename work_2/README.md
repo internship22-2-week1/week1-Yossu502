@@ -19,3 +19,13 @@ Se utilzo un diagrama para una mejor compresion.
 3. Ejemplifique cómo distribuiría el liquido en los contenedores de la tabla de arriba con las siguientes compras ficticias, siguiendo su propuesta.
 
 ![Foto de la tabla](../assets/tablalogica.png)
+
+
+### 2. Problema Taller de Santa Claus
+### **Solucion**
+
+1. Se le pide realizar el algoritmo para la implementacion la funcion descrita anteriormente.
+
+Se realizo un diagrama para mayor compresion.
+
+![Foto algoritmo solucion](../assets/algoritmosanta.png)
