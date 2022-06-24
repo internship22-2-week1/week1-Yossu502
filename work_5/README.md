@@ -14,6 +14,11 @@ La solucion del reto semanal lo realiza el siguiente algoritmo:
 
  -Ambas funciones trabajan de la siguiente manera: Primero recorre toda la cadena en orden de izquierda a derecha en busca de caracteres '*', '/', '+' y '-' que son lo que indican que hay multiplicaciones y divisiones, si encuentra uno entonces agarra el caracter anterior y el caracter siguiente y realiza la operacion, luego de haberla realizado remplaza el caracter del operador por el resultado y elimina el caracter anterior y el siguiente seguidamente vuelve a recorre la cadena en mas busca de de caracteres de operaciones algebraicas si no encuentra regresa la lista ya con unico valor dentro de ella. 
 
+ Diagrama para mejor entendimiento
+
+![Pruebas del desafio](../assets/diagrama%20desafio.png)
+
+
  ## Pruebas en ejecucion 
 
 ![Pruebas del desafio](../assets/desafio.png)
